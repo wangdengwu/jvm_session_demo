@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by dwwang on 5/12/15.
+ * -verbose:gc -Xms10m -Xmx10m -XX:+HeapDumpOnOutOfMemoryError
  */
 public class HeapOOM {
     public static void main(String[] args) {
